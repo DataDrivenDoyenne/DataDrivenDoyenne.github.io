@@ -1,0 +1,11 @@
+name: "Data Driven Doyenne"
+output_dir: .  # necessary for hosting on GitHub; just add it for now
+navbar:  
+  title: "Data Driven Doyenne"
+  left:  # you can also use 'right'
+    - text: "Home"
+      icon: fa-home  # handy way to use FontAwesome icons in nav!
+      href: index.html  # don't link to the .Rmd file
+    - text: "About"
+      icon: fa-newspaper-o
+      href: about.html
