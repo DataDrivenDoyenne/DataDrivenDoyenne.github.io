@@ -1,5 +1,0 @@
----
-title: "Data Driven Doyenne"
----
-
-Welcome to my site!
