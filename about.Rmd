@@ -1,5 +1,0 @@
----
-title: "About me"
----
-  
-Data driven decisions and data-centric systems are my passion. 
